@@ -9,9 +9,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.company</groupId>
-	<artifactId>code-project</artifactId>
+	<artifactId>code-project-patch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>code-project</name>
+	<name>code-project-patch</name>
 	<description>code-project</description>
 
 	<properties>

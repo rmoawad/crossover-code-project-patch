@@ -20,7 +20,7 @@ mvn spring-boot:run
 - OR 
 ```shell
 mvn clean install
-java -jar target/code-project-0.0.1-SNAPSHOT.jar
+java -jar target/code-project-patch-0.0.1-SNAPSHOT.jar
 ```
 - OR from code run the main which is in class Application.java
 
